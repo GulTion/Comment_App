@@ -1,0 +1,14 @@
+.up{
+    background-image: url("./img/up.png");
+    background-size: 100%;
+    width: 2em;
+    height: 2em;
+    
+}
+.de{
+    background-image: url("./img/de.png");
+    background-size: 100%;
+    width: 2em;
+    height: 2em;
+    
+}
